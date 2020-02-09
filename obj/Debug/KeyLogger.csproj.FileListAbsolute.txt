@@ -1,0 +1,14 @@
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\bin\Debug\KeyLogger.exe.config
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\bin\Debug\KeyLogger.exe
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\bin\Debug\KeyLogger.pdb
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger.csprojResolveAssemblyReference.cache
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\MainWindow.g.cs
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\App.g.cs
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger_MarkupCompile.cache
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger_MarkupCompile.lref
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\MainWindow.baml
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger.g.resources
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger.Properties.Resources.resources
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger.csproj.GenerateResource.Cache
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger.exe
+c:\users\lukas.lukas\documents\visual studio 2015\Projects\GithubDemos\KeyLogger\obj\Debug\KeyLogger.pdb
